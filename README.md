@@ -1,6 +1,6 @@
 yidong
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
+**若需部署 yidong，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
 
 ## 概述
 
@@ -18,7 +18,7 @@ yidong
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bclswl0827/v2ray-heroku)
 
- 4. 回到专案首页，点击上面的链接以部署 V2Ray
+ 4. 回到专案首页，点击上面的链接以部署 yidong
 
 ### 变量
 
